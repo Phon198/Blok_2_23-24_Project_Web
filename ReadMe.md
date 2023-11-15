@@ -39,11 +39,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Link naar YesStyle: https://www.yesstyle.com/en/home.html
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Naam van de pagina: Sweatshirts & Hoodies
+  <p>Naam van de pagina: Sweatshirts & Hoodies<p>
   <img src="ReadMeImages/YesStyle_Sweatshirts&Hoodies.jpg" width="375px" alt="Screenshot from YesStyle Sweatshirts & Hoodies page."> 
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Naam van de pagina: Persona Investigator
+  <p>Naam van de pagina: Persona Investigator<p>
   <img src="ReadMeImages/YesStyle_PersonaInvestigator.jpg" width="375px" alt="Screenshot from YesStyle Persona Investigator page."> 
  
 </details>
