@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Kanokphon Sophaphon
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Rood/blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Surface plane
  
 </details>
 
@@ -36,15 +36,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  Link naar YesStyle: https://www.yesstyle.com/en/home.html
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  Naam van de pagina: Sweatshirts & Hoodies  
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  ![Afbeelding van WhatsApp op 2023-11-15 om 01 46 37_65a08dfb](https://github.com/Phon198/Blok_2_23-24_Project_Web/assets/150865805/95c5aafb-52f6-45ac-8b11-ef72dba86049)
+
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  Naam van de pagina: Persona Investigator  
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  ![Afbeelding van WhatsApp op 2023-11-15 om 01 45 16_f60214b0](https://github.com/Phon198/Blok_2_23-24_Project_Web/assets/150865805/281e9605-e0dc-45cb-856c-c60e5b5f099c)
+
  
 </details>
 
