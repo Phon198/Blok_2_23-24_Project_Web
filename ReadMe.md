@@ -58,11 +58,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
   Verteller:
-  1. Home geen echt problemen gevonden
-  2. Blog:
-    + De verteller pakt de socials aan de zijkant niet
-    + Pijtjes om te scrollen tussen de kledingstuken pakt de verteller niet
-    + Nav. pakt de verteller raar nadat het gescrold is
+  1. Sweatshirts & Hoodies geen echt problemen gevonden
+  2. Persona Investigator - De verteller pakt de socials aan de zijkant niet
+  3. Persona Investigator - Pijtjes om te scrollen tussen de kledingstuken pakt de verteller niet
+  4. Persona Investigator - Nav. pakt de verteller raar nadat het gescrold is
 
   WCAG:
   1. Content - Buttons en etc. kan interessanter
