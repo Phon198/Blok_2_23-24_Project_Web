@@ -12,7 +12,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Jij
 
-<details open>
+<details >
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
@@ -32,7 +32,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Je website
 
-<details open>
+<details >
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
@@ -52,7 +52,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Toegankelijkheidstest 1/2 (week 1)
 
-<details open>
+<details >
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
@@ -97,7 +97,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Voortgang 1 (week 2)
 
-<details>
+<details open>
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
@@ -107,10 +107,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | Silke      | Bink          | Zoë    | Mees        |
+Kanokphon  | ---            | ---                | ---          | ---              |
+  | Breakdown schets  | Wat kun je doen ipv een div             | Detailvragen/html&css vragen    | font face    |
+  | gif kopiëren en stilzetten | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
 
