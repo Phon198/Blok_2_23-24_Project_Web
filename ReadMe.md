@@ -103,7 +103,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
-Ik loop super achter door verschillende emementen binnen en vooral buiten dit vak. Eén van de reden is dat ik op het laaste moment van schemen verandert ben waardoor in de 'breakdownschets' nog niet af heb en dus ook de code. Wat ik latsig vond is om de html code meteen in klein schem te schrijven.
+Ik loop super achter door verschillende emementen binnen en vooral buiten dit vak. Eén van de reden is dat ik op het laaste moment van schemen verandert ben waardoor onder andere de 'breakdownschets' nog niet af is en ook de code. Wat ik latsig vond is om de html code meteen in klein schem te schrijven.
 
   ### Agenda voor meeting
   Silke - Breakdownschets 
