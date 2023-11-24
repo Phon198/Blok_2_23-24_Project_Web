@@ -39,12 +39,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Link naar YesStyle: https://www.yesstyle.com/en/home.html
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  <p>Naam van de pagina: Sweatshirts & Hoodies<p>
-  <img src="ReadMeImages/YesStyle_Sweatshirts&Hoodies.jpg" width="375px" alt="Screenshot from YesStyle Sweatshirts & Hoodies page."> 
+  <p>Naam van de pagina: Home<p>
+  <img src="ReadMeImages/yesstyle.jpg" width="375px" alt="Screenshot from YesStyle Home page."> 
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  <p>Naam van de pagina: Persona Investigator<p>
-  <img src="ReadMeImages/YesStyle_PersonaInvestigator.jpg" width="375px" alt="Screenshot from YesStyle Persona Investigator page."> 
+  <p>Naam van de pagina: Blog<p>
+  <img src="ReadMeImages/the_yesstylist.jpg" width="375px" alt="Screenshot from YesStyle Blog page."> 
  
 </details>
 
@@ -103,17 +103,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
+Ik loop super achter door verschillende emementen binnen en vooral buiten dit vak. Eén van de reden is dat ik op het laaste moment van schemen verandert ben waardoor in de 'breakdownschets' nog niet af heb en dus ook de code. Wat ik latsig vond is om de html code meteen in klein schem te schrijven.
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | Silke      | Bink          | Zoë    | Mees        |
-Kanokphon  | ---            | ---                | ---          | ---              |
-  | Breakdown schets  | Wat kun je doen ipv een div             | Detailvragen/html&css vragen    | font face    |
-  | gif kopiëren en stilzetten | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
+  Silke - Breakdownschets 
+  Bink - Wat kun je doen ipv een div 
+  Zoë - Detail, html en css vragen 
+  Mees - Hoe werkt @font-face
+  Kanokphon - GIF kopiëren en stilzetten 
+  
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
