@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   <p>Naam van de pagina: Home<p>
-  <img src="ReadMeImages/yesstyle.jpg" width="375px" alt="Screenshot from YesStyle Home page."> 
+  <img src="readMeImages/yesstyle.jpg" width="375px" alt="Screenshot from YesStyle Home page."> 
 
   #### Screenshot(s) van de tweede pagina (small screen):
   <p>Naam van de pagina: Blog<p>
-  <img src="ReadMeImages/the_yesstylist.jpg" width="375px" alt="Screenshot from YesStyle Blog page."> 
+  <img src="readMeImages/the_yesstylist.jpg" width="375px" alt="Screenshot from YesStyle Blog page."> 
  
 </details>
 
