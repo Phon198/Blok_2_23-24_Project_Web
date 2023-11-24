@@ -105,6 +105,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 Ik loop super achter door verschillende emementen binnen en vooral buiten dit vak. Eén van de reden is dat ik op het laaste moment van schemen verandert ben waardoor onder andere de 'breakdownschets' nog niet af is en ook de code. Wat ik latsig vond is om de html code meteen in klein schem te schrijven.
 
+<img src="readMeImages/voortgang1.1.jpg" width="375px" alt="Voortgang1.1">
+<img src="readMeImages/voortgang1.2.jpg" width="375px" alt="Voortgang1.2">
+<img src="readMeImages/voortgang1.3.jpg" width="375px" alt="Voortgang1.3">
+<img src="readMeImages/voortgang1.4.jpg" width="375px" alt="Voortgang1.4">
+
   ### Agenda voor meeting
   Silke - Breakdownschets 
 
