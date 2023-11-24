@@ -107,9 +107,13 @@ Ik loop super achter door verschillende emementen binnen en vooral buiten dit va
 
   ### Agenda voor meeting
   Silke - Breakdownschets 
+  
   Bink - Wat kun je doen ipv een div 
+  
   Zoë - Detail, html en css vragen 
+  
   Mees - Hoe werkt @font-face
+  
   Kanokphon - GIF kopiëren en stilzetten 
   
   ### Verslag van meeting
