@@ -150,6 +150,7 @@ Ik loop super achter door verschillende emementen binnen en vooral buiten dit va
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  
   Root in de css verwerken ging goed en zonder echte problemen. Wat lastig was de header tel versie en de verschillende magin van de verschillende onderdelen.
   
   <img src="readMeImages/voortgang2.1.jpg" width="375px" alt="Voortgang2.1">
