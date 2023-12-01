@@ -145,7 +145,7 @@ Ik loop super achter door verschillende emementen binnen en vooral buiten dit va
 
 ## Voortgang 2 (week 3)
 
-<details>
+<details open>
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
