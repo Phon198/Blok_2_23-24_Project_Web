@@ -17,6 +17,12 @@
 	/* startje */
 	--color-text:#111;
 	--color-background:#eee;
+	--main-bg-color: #fff;
+    --border-color: #ccc;
+    --link-color: #333;
+    --hover-color: #55AB55;
+    --footer-bg-color: #f4f4f4;
+    --footer-text-color: #666;
 }
 
 
@@ -28,4 +34,269 @@
 /****************/
 
 /* jouw code */
+/* Style the Header*/
+header {
+    background-color: var(--main-bg-color);
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid var(--border-color);
+}
 
+/* Style the logo */
+header h1 {
+    margin: 0;
+}
+
+/* Style the navigation menu */
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 1em; 
+}
+
+nav a {
+    text-decoration: none;
+    color: var(--link-color);
+}
+
+/* Style the search form */
+form {
+    display: flex;
+    align-items: center;
+}
+
+label {
+    margin-right: 0.5em; 
+}
+
+input[type="search"] {
+    padding: 0.5em;
+    border: 1px solid var(--border-color); 
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+button img {
+	width: 3em;
+}
+
+/* Style the hover effect for links */
+nav a:hover {
+    color: var(--hover-color); 
+}
+
+
+
+
+
+/* Style the main section */
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2em;
+}
+
+/* Style the section */
+section {
+    margin: 2em;
+}
+
+/* Style paragraphs */
+p {
+    margin-bottom: 1em; 
+    line-height: 1.5; 
+}
+
+a {
+	text-decoration: none;
+	color: var(--link-color);
+}
+
+/* Style the image */
+img {
+    width: 100%; 
+    display: block; 
+}
+
+/* Style the section:first-of-type */
+section:first-of-type {
+	margin-bottom: 21em;
+}
+
+/* Style the heading and subheading section:first-of-type */
+section:first-of-type h2 {
+    font-size: 2em; 
+    margin-bottom: 0.5em; 
+}
+
+section:first-of-type h3 {
+    font-size: 1em; 
+    color: var(--footer-text-color); 
+    margin-bottom: 1em; 
+}
+
+/* Style paragraphs section:first-of-type */
+section:first-of-type p:first-of-type {
+    margin-top: 30em; 
+	margin-bottom: 22em;
+}
+
+/* Style the image section:first-of-type */
+section:first-of-type img { 
+    margin-top: -74em; 
+}
+
+/* Style the iframe */
+iframe {
+    width: 100%; 
+    height: 19em; 
+    margin-top: 9em; 
+}
+
+/* Style the section:nth-of-type(2)  */
+section:nth-of-type(2)  {
+	margin-bottom: 14em;
+}
+
+/* Style paragraphs section:nth-of-type(2) */
+section:nth-of-type(2) p{
+    margin-top: 24em;
+}
+
+/* Style the image section:nth-of-type(2) */
+section:nth-of-type(2) img { 
+    margin-top: -34em; 
+}
+
+/* With the help of the CodePen elaboration (https://codepen.io/shooft/pen/KKbwmao?editors=0100) */
+section:nth-of-type(3) ul {
+	display:flex;
+	gap:.5em;
+	overflow-x:auto;
+	scroll-snap-type: x mandatory;
+	overscroll-behavior: contain auto;
+	-webkit-overflow-scrolling: touch;
+	/* https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior */
+}
+
+section:nth-of-type(3) ul li {
+	flex-basis:15em;
+	flex-shrink:0;
+	align-items:center;
+	gap:.25em;
+	scroll-snap-align: center;
+	display:flex;
+	flex-direction:column-reverse;
+}
+
+/* Style the section:nth-of-type(4) */
+section:nth-of-type(4) {
+	margin-left: 10em;
+	margin-bottom: 8em;
+}
+
+section:nth-of-type(4) ul {
+	padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+	list-style-type: none;
+}
+
+section:nth-of-type(4) ul li {
+	border: solid .1em;
+	border-radius: 2em;
+	padding: .1em;
+}
+
+section:nth-of-type(4) img {
+	width: 5em;
+	border-radius: 25em;
+	margin-left: -8em;
+	margin-top: -12em;
+}
+
+/* With the help of the CodePen elaboration (https://codepen.io/shooft/pen/KKbwmao?editors=0100) */
+section:last-of-type ul {
+	display:flex;
+	gap:.5em;
+	overflow-x:auto;
+	scroll-snap-type: x mandatory;
+	overscroll-behavior: contain auto;
+	-webkit-overflow-scrolling: touch;
+	/* https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior */
+}
+
+section:last-of-type ul li {
+	flex-basis:25em;
+	flex-shrink:0;
+	align-items:right;
+	gap:.25em;
+	scroll-snap-align: center;
+	display:flex;
+	flex-direction:column-reverse;
+}
+
+
+
+
+
+/* Style the footer*/
+footer {
+    background-color: var(--footer-bg-color); 
+    padding: 2em 0; 
+    text-align: center;
+}
+
+/* Style the heading (h2) */
+footer h2 a {
+    font-size: 1.5em; 
+    text-decoration: none;
+    color: #333; 
+}
+
+/* Style the unordered list (ul) */
+footer ul {
+    list-style: none;
+    padding: 0;
+    margin: 1em 0; 
+}
+
+/* Style list items (li) */
+footer li {
+    display: inline-block;
+    margin-right: 1em; 
+}
+
+/* Style hyperlinks in list items */
+footer li a img {
+    width: 30px; 
+    height: 30px; 
+}
+
+/* Style the paragraphs (p) */
+footer p {
+    font-size: 0.8em; 
+    color: var(--footer-text-color); 
+    margin: 0.5em 0;
+}
+
+/* Style hyperlinks in paragraphs */
+footer p a {
+    color: var(--link-color); 
+    text-decoration: none;
+}
+
+/* Style the hover effect for hyperlinks */
+footer p a:hover {
+    color: var(--hover-color); 
+}
