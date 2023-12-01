@@ -97,7 +97,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Voortgang 1 (week 2)
 
-<details open>
+<details >
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
@@ -129,10 +129,13 @@ Ik loop super achter door verschillende emementen binnen en vooral buiten dit va
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - @font-face -> wis cach -> ga naar fonts -> zet boven in css 
+  - ipv div ul en il gebruiken voor product scroll
+  - hooftletters in css
+  - maak van alles sections
+  - button en/of a in sections
+  - in form moet ook label en plaseholder
+  - gif stoppen via picture
 
 </details>
 
@@ -147,16 +150,29 @@ Ik loop super achter door verschillende emementen binnen en vooral buiten dit va
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Root in de css verwerken ging goed en zonder echte problemen. Wat lastig was de header tel versie en de verschillende magin van de verschillende onderdelen.
+  
+  <img src="readMeImages/voortgang2.1.jpg" width="375px" alt="Voortgang2.1">
+  <img src="readMeImages/voortgang2.2.jpg" width="375px" alt="Voortgang2.2">
+  <img src="readMeImages/voortgang2.3.jpg" width="375px" alt="Voortgang2.3">
+  <img src="readMeImages/voortgang2.4.jpg" width="375px" alt="Voortgang2.4">
+  <img src="readMeImages/voortgang2.5.jpg" width="375px" alt="Voortgang2.5">
+  <img src="readMeImages/voortgang2.6.jpg" width="375px" alt="Voortgang2.6">
+  <img src="readMeImages/voortgang2.7.jpg" width="375px" alt="Voortgang2.7">
+  <img src="readMeImages/voortgang2.8.jpg" width="375px" alt="Voortgang2.8">
+  <img src="readMeImages/voortgang2.9.jpg" width="375px" alt="Voortgang2.9">
+  <img src="readMeImages/voortgang2.10.jpg" width="375px" alt="Voortgang2.10">
+  <img src="readMeImages/voortgang2.11.jpg" width="375px" alt="Voortgang2.11">
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Zoë       | Mees           | Kanokphon     | Silke         |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | button center  | links positioneren  | dezelfde root in 3 css    | ?    |
+  | verticale schuifbare | gif dowloaden | sneller responsive coderen | ? |
+  | YouTube filmpje      | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
