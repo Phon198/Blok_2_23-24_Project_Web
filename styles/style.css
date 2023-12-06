@@ -1,82 +1,120 @@
-/**************/
-/* CSS REMEDY */
-/**************/
+/* CSS Remedy */
 *, *::after, *::before {
-  box-sizing:border-box;  
+    box-sizing: border-box;  
 }
 
-
-
-
-
-
-/*********************/
-/* CUSTOM PROPERTIES */
-/*********************/
+/* Custom Properties */
 :root {
-	/* startje */
-	--color-text:#111;
-	--color-background:#eee;
-	--main-bg-color: #fff;
-    --border-color: #ccc;
-    --link-color: #333;
-    --hover-color: #55AB55;
-    --footer-bg-color: #f4f4f4;
-    --footer-text-color: #666;
+    --main-color-text: #000000;
+    --text-color-2: #666666;
+    --text-color-3: #52b134;
+    --main-bg-color: #ffffff;
+    --bg-color-2: #f1f2f6;
+    --bg-color-3: #333333;
+    --border-color: #d9dadd;
 }
 
-
-
-
-
-/****************/
-/* JOUW STYLING */
-/****************/
-
-/* jouw code */
-/* Style the Header*/
+/* Header Styles */
 header {
     background-color: var(--main-bg-color);
-    padding: 1em;
+    padding: .4em;
     display: flex;
+    flex-direction: row;
     justify-content: space-between;
     align-items: center;
     border-bottom: 1px solid var(--border-color);
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    width: 100%;
 }
 
-/* Style the logo */
+header button:first-of-type {
+    order: 1;
+}
+
 header h1 {
+    order: 2;
     margin: 0;
 }
 
-/* Style the navigation menu */
-nav ul {
-    list-style: none;
+search {
+    order: 3;
+}
+
+header button:first-of-type img {
+    width: 1em;
+}
+
+/* Hamburger Menu Styles */
+nav {
+    display: grid;
+    align-content: start;
+    gap: 1em;
+    background: var(--bg-color-2);
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    transform: translateX(-100%);
+    transition: transform 0.3s;
+    width: 80%;
     display: flex;
+    flex-direction: column;
+}
+
+nav.show-menu {
+    transform: translateX(0%);
+}
+
+nav button {
+    margin: 0;
+    padding: .7em;
+    background: var(--bg-color-3);
+    order: 1;
+}
+
+nav button img {
+    width: 1em;
+    filter: invert(1);
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    order: 2;
 }
 
 nav ul li {
-    margin-right: 1em; 
+    margin-top: -1em;
+    padding: 1em;
+    background: var(--main-bg-color);
+    border: solid .1em var(--bg-color-2);
 }
 
-nav a {
-    text-decoration: none;
-    color: var(--link-color);
-}
-
-/* Style the search form */
-form {
+/* Search Form Styles */
+search {
     display: flex;
     align-items: center;
 }
 
 label {
-    margin-right: 0.5em; 
+    margin-right: 0.5em;
 }
 
 input[type="search"] {
     padding: 0.5em;
-    border: 1px solid var(--border-color); 
+    border: 1px solid var(--border-color);
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    transform: translateX(-100%);
+    transition: transform 0.3s;
 }
 
 button {
@@ -86,217 +124,125 @@ button {
 }
 
 button img {
-	width: 3em;
+    width: 3em;
 }
 
-/* Style the hover effect for links */
+/* Hover Effect for Links */
 nav a:hover {
-    color: var(--hover-color); 
+    color: var(--hover-color);
 }
 
-
-
-
-
-/* Style the main section */
-main {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 2em;
-}
-
-/* Style the section */
-section {
-    margin: 2em;
-}
-
-/* Style paragraphs */
-p {
-    margin-bottom: 1em; 
-    line-height: 1.5; 
-}
-
-a {
-	text-decoration: none;
-	color: var(--link-color);
-}
-
-/* Style the image */
-img {
-    width: 100%; 
-    display: block; 
-}
-
-/* Style the section:first-of-type */
-section:first-of-type {
-	margin-bottom: 21em;
-}
-
-/* Style the heading and subheading section:first-of-type */
-section:first-of-type h2 {
-    font-size: 2em; 
-    margin-bottom: 0.5em; 
-}
-
-section:first-of-type h3 {
-    font-size: 1em; 
-    color: var(--footer-text-color); 
-    margin-bottom: 1em; 
-}
-
-/* Style paragraphs section:first-of-type */
-section:first-of-type p:first-of-type {
-    margin-top: 30em; 
-	margin-bottom: 22em;
-}
-
-/* Style the image section:first-of-type */
-section:first-of-type img { 
-    margin-top: -74em; 
-}
-
-/* Style the iframe */
-iframe {
-    width: 100%; 
-    height: 19em; 
-    margin-top: 9em; 
-}
-
-/* Style the section:nth-of-type(2)  */
-section:nth-of-type(2)  {
-	margin-bottom: 14em;
-}
-
-/* Style paragraphs section:nth-of-type(2) */
-section:nth-of-type(2) p{
-    margin-top: 24em;
-}
-
-/* Style the image section:nth-of-type(2) */
-section:nth-of-type(2) img { 
-    margin-top: -34em; 
-}
-
-/* With the help of the CodePen elaboration (https://codepen.io/shooft/pen/KKbwmao?editors=0100) */
-section:nth-of-type(3) ul {
-	display:flex;
-	gap:.5em;
-	overflow-x:auto;
-	scroll-snap-type: x mandatory;
-	overscroll-behavior: contain auto;
-	-webkit-overflow-scrolling: touch;
-	/* https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior */
-}
-
-section:nth-of-type(3) ul li {
-	flex-basis:15em;
-	flex-shrink:0;
-	align-items:center;
-	gap:.25em;
-	scroll-snap-align: center;
-	display:flex;
-	flex-direction:column-reverse;
-}
-
-/* Style the section:nth-of-type(4) */
-section:nth-of-type(4) {
-	margin-left: 10em;
-	margin-bottom: 8em;
-}
-
-section:nth-of-type(4) ul {
-	padding: 0;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-	list-style-type: none;
-}
-
-section:nth-of-type(4) ul li {
-	border: solid .1em;
-	border-radius: 2em;
-	padding: .1em;
-}
-
-section:nth-of-type(4) img {
-	width: 5em;
-	border-radius: 25em;
-	margin-left: -8em;
-	margin-top: -12em;
-}
-
-/* With the help of the CodePen elaboration (https://codepen.io/shooft/pen/KKbwmao?editors=0100) */
-section:last-of-type ul {
-	display:flex;
-	gap:.5em;
-	overflow-x:auto;
-	scroll-snap-type: x mandatory;
-	overscroll-behavior: contain auto;
-	-webkit-overflow-scrolling: touch;
-	/* https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior */
-}
-
-section:last-of-type ul li {
-	flex-basis:25em;
-	flex-shrink:0;
-	align-items:right;
-	gap:.25em;
-	scroll-snap-align: center;
-	display:flex;
-	flex-direction:column-reverse;
-}
-
-
-
-
-
-/* Style the footer*/
+/* Footer Styles */
 footer {
-    background-color: var(--footer-bg-color); 
-    padding: 2em 0; 
+    background-color: var(--footer-bg-color);
+    padding: 2em 0;
     text-align: center;
 }
 
-/* Style the heading (h2) */
+/* Heading Styles in Footer */
 footer h2 a {
-    font-size: 1.5em; 
+    font-size: 1.5em;
     text-decoration: none;
-    color: #333; 
+    color: var(--text-color-2);
 }
 
-/* Style the unordered list (ul) */
+/* Unordered List Styles in Footer */
 footer ul {
     list-style: none;
     padding: 0;
-    margin: 1em 0; 
+    margin: 1em 0;
 }
 
-/* Style list items (li) */
+/* List Item Styles in Footer */
 footer li {
     display: inline-block;
-    margin-right: 1em; 
+    margin-right: 1em;
 }
 
-/* Style hyperlinks in list items */
+/* Hyperlinks in List Items Styles */
 footer li a img {
-    width: 30px; 
-    height: 30px; 
+    width: 30px;
+    height: 30px;
 }
 
-/* Style the paragraphs (p) */
+/* Paragraph Styles in Footer */
 footer p {
-    font-size: 0.8em; 
-    color: var(--footer-text-color); 
+    font-size: 0.8em;
+    color: var(--footer-text-color);
     margin: 0.5em 0;
 }
 
-/* Style hyperlinks in paragraphs */
+/* Hyperlinks in Paragraphs Styles */
 footer p a {
-    color: var(--link-color); 
+    color: var(--link-color);
     text-decoration: none;
 }
 
-/* Style the hover effect for hyperlinks */
+/* Hover Effect for Hyperlinks in Paragraphs */
 footer p a:hover {
-    color: var(--hover-color); 
+    color: var(--hover-color);
+}
+
+/* States Styles*/
+/* Link */
+a {
+    color: var(--main-color-text);
+}
+
+a:visited {
+    color: var(--text-color-3);
+    text-decoration: underline dotted;
+}
+
+a:focus {
+    outline-color: var(--text-color-3);
+}
+
+a:hover {
+    color: var(--text-color-3);
+    text-decoration: underline;
+}
+
+a:active {
+    color: var(--text-color-2);
+    text-decoration: underline overline;    
+}
+
+/*Button*/
+button {
+    
+}
+
+button:hover {
+    
+}
+
+button:focus {
+    
+}
+
+button:active {
+    
+}
+
+/* Responsive Styling for 27" */
+@media only screen and (min-width: 993px) {
+    /* Style the navigation menu */
+    nav ul {
+        list-style: none;
+        display: flex;
+    }
+
+    nav ul li {
+        margin-right: 1em;
+    }
+
+    nav a {
+        text-decoration: none;
+        color: var(--link-color);
+    }
+
+    header button:first-of-type, header button:nth-last-of-type(2) {
+        display: none;
+    }
 }

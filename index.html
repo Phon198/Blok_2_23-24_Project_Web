@@ -7,13 +7,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>The YesStylist</title>
     <link rel="stylesheet" href="styles/style.css">
+	<link rel="stylesheet" href="styles/the_yesstylist.css">
     <link rel="icon" type="image/svg+xml" href="images/phon.svg">
 </head>
 
 <body>
     <header>
         <h1><a href="index.html"><img src="images/yesstylist_logo.svg" alt="YesStyle blog logo"></a></h1>
+        <button aria-hidden="true" id="menu-toggle"><img src="images/menu-burger.svg" alt="Menu"></button>
         <nav>
+            <button aria-hidden="true" id="close-menu"><img src="images/cross.png" alt="cross"></button>
             <ul>
                 <li><a href="#">Beauty</a></li>
                 <li><a href="#">Fashion</a></li>
@@ -23,11 +26,13 @@
                 <li><a href="#">Shop</a></li>
             </ul>
         </nav>
-        <form action="">
-            <label for="search_bar"></label>
-            <input id="search_bar" type="search" placeholder="Search">
-            <button><img src="images/search.png" alt="Search"></button>
-        </form>
+		<search>
+			<form action="">
+				<label for="search_bar"></label>
+				<input id="search_bar" type="search" placeholder="Search">
+				<button><img src="images/search.png" alt="Search"></button>
+			</form>	
+		</search>
     </header>
 
     <main>
@@ -36,7 +41,10 @@
 				Suzy’s Fashion Moments from the Netflix K-Drama DOONA!
 			</h2>
 			<h3>
-				By <a href="#">Janice Chow</a> | November 6, | 2023 3 mins read
+				By <a href="#">Janice Chow</a> | November 6, 2023
+			</h3>
+			<h3>
+				3 mins read
 			</h3>
 			<p>
 				From epic sagas drenched in mythology to relatable relationship themes, romantic K-Dramas never fail to deliver intriguing storylines that go beyond meet-cutes and dramatic love triangles. Released on Netflix on October 20, the trending Korean drama Doona! depicts an unconventional love story between a former K-pop idol and a fresh-faced college student.
@@ -48,7 +56,7 @@
 				Suzy’s background as a real-life K-pop star combined with her ethereal visuals makes the artist a perfect cast for Doona. Another must-watch of the K-Drama – besides Suzy’s impeccable portrayal of the character − is her electrifying range of outfits showcasing a mix of onstage glam and off-duty chic. Read on for a deep dive into Suzy’s wardrobe from Doona!.
 			</p>
 			<img src="images/suzys_fashion_moments_from_the_netflix_k-drama_doona.jpg" alt="Photo of the Korean actress Suzy in 3 different outfits on a blue-green background with the name Doona! right above the photo.">
-			<iframe src="https://youtu.be/v4rtx48siJI"></iframe>
+			<iframe src="https://www.youtube.com/embed/v4rtx48siJI"></iframe>
 		</section>
 
 		<section>
@@ -85,6 +93,12 @@
 					<a href="yesstyle.html"><img src="images/saunderoll_-_off-shoulder_sequin_mesh_panel_a-line_evening_gown.webp" alt="Photo of a champagne pink off-shoulder sequin mesh panel A-line evening gown"></a>
 				</li>
 			</ul>
+			<button>
+				<img src="images/angle-circle-left.svg" alt="Arrow to the left.">
+			</button>
+			<button>
+				<img src="images/angle-circle-right.svg" alt="Arrow to the right.">
+			</button>
 		</section>
 
 		<section>
