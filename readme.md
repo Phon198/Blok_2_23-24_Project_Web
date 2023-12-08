@@ -145,7 +145,7 @@ Ik loop super achter door verschillende emementen binnen en vooral buiten dit va
 
 ## Voortgang 2 (week 3)
 
-<details open>
+<details >
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
@@ -153,17 +153,17 @@ Ik loop super achter door verschillende emementen binnen en vooral buiten dit va
   
   Root in de css verwerken ging goed en zonder echte problemen. Wat lastig was de header tel versie en de verschillende magin van de verschillende onderdelen.
   
-  <img src="readMeImages/voortgang2.1.jpg" width="375px" alt="Voortgang2.1">
-  <img src="readMeImages/voortgang2.2.jpg" width="375px" alt="Voortgang2.2">
-  <img src="readMeImages/voortgang2.3.jpg" width="375px" alt="Voortgang2.3">
-  <img src="readMeImages/voortgang2.4.jpg" width="375px" alt="Voortgang2.4">
-  <img src="readMeImages/voortgang2.5.jpg" width="375px" alt="Voortgang2.5">
-  <img src="readMeImages/voortgang2.6.jpg" width="375px" alt="Voortgang2.6">
-  <img src="readMeImages/voortgang2.7.jpg" width="375px" alt="Voortgang2.7">
-  <img src="readMeImages/voortgang2.8.jpg" width="375px" alt="Voortgang2.8">
-  <img src="readMeImages/voortgang2.9.jpg" width="375px" alt="Voortgang2.9">
-  <img src="readMeImages/voortgang2.10.jpg" width="375px" alt="Voortgang2.10">
-  <img src="readMeImages/voortgang2.11.jpg" width="375px" alt="Voortgang2.11">
+  <img src="readme-images/voortgang2.1.jpg" width="375px" alt="Voortgang2.1">
+  <img src="readme-images/voortgang2.2.jpg" width="375px" alt="Voortgang2.2">
+  <img src="readme-images/voortgang2.3.jpg" width="375px" alt="Voortgang2.3">
+  <img src="readme-images/voortgang2.4.jpg" width="375px" alt="Voortgang2.4">
+  <img src="readme-images/voortgang2.5.jpg" width="375px" alt="Voortgang2.5">
+  <img src="readme-images/voortgang2.6.jpg" width="375px" alt="Voortgang2.6">
+  <img src="readme-images/voortgang2.7.jpg" width="375px" alt="Voortgang2.7">
+  <img src="readme-images/voortgang2.8.jpg" width="375px" alt="Voortgang2.8">
+  <img src="readme-images/voortgang2.9.jpg" width="375px" alt="Voortgang2.9">
+  <img src="readme-images/voortgang2.10.jpg" width="375px" alt="Voortgang2.10">
+  <img src="readme-images/voortgang2.11.jpg" width="375px" alt="Voortgang2.11">
 
 
   ### Agenda voor meeting
@@ -179,9 +179,9 @@ Ik loop super achter door verschillende emementen binnen en vooral buiten dit va
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
+  - Voor YouTube iframe src embed toevoegen in de url
+  - gebruik grid voor section 4
+  - rood en @media per onderdeel en css typen 
 - ...
 
 </details>
@@ -206,21 +206,30 @@ Ik loop super achter door verschillende emementen binnen en vooral buiten dit va
 
 ## Voortgang 3 (week 4)
 
-<details>
+<details open>
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
+  Ik had moeite met grid bij de 4e section en mee groeiende achtergrond kleuren bij sections 1 en 5. Flex voor order bij de andere sections ging goed.
+
+  <img src="readme-images/voortgang3.1.jpg" width="375px" alt="Voortgang3.1">
+  <img src="readme-images/voortgang3.2.jpg" width="375px" alt="Voortgang3.2">
+  <img src="readme-images/voortgang3.3.jpg" width="375px" alt="Voortgang3.3">
+  <img src="readme-images/voortgang3.4.jpg" width="375px" alt="Voortgang3.4">
+  <img src="readme-images/voortgang3.5.jpg" width="375px" alt="Voortgang3.5">
+  <img src="readme-images/voortgang3.6.jpg" width="375px" alt="Voortgang3.6">
+
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Zoë      | Mees          | Kanokphon    | student 4        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | section in een section  | X             | sections voor een deel een andere kleur maken    | en dan ik dat    |
+  | dropdown menu | X | sections achtergrond kleur mee laten groeien | dit wil ik zeker |
+  | schuifbalk            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
