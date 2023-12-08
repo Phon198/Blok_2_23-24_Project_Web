@@ -105,7 +105,8 @@ section:first-of-type h3 {
 /* Iframe Styles */
 iframe {
     width: 100%;  
-    height: auto; 
+    /* height: auto;  */
+    aspect-ratio: 16/9;
 }
   
 /* Second Section Styles */
@@ -130,6 +131,7 @@ section:nth-of-type(2) p {
 section:nth-of-type(3){
     margin-bottom: 1em;
     border-bottom: solid 0.1em var(--border-color);
+    position: relative;
 }
   
 /* With the help of the CodePen elaboration */
@@ -151,47 +153,72 @@ section:nth-of-type(3) ul li {
     display: flex;
     flex-direction: column-reverse;
 }
+
+section:nth-of-type(3) button{
+    width: 3em;
+    position: absolute;
+}
+
+section:nth-of-type(3) button:first-of-type{
+    left: 0;
+    top: 50%;
+}
+
+section:nth-of-type(3) button:last-of-type{
+    right: 0;
+    top: 50%;
+}
   
 /* Fourth Section Styles */
 section:nth-of-type(4) {
-    display: flex;
-    flex-direction: column;
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    grid-template-rows: max-content max-content max-content;
+    gap: .5em;
     box-shadow: 0.2em 0.2em 0.5em #111;
     border: solid 0.1em var(--border-color);
     border-radius: 0.2em;
     padding: 1em;
     margin-bottom: 5em;
 }
-  
+
+section:nth-of-type(4) h2 {
+   color: var(--main-color-text); 
+   
+}
+
 section:nth-of-type(4) ul {
     display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: end;
+    flex-wrap: wrap;
+    gap: .9em;
     list-style-type: none;
-    order: 3;
-    margin-top: -6em;
+    margin: 0;
+    padding: 0;
+    align-self: start;
+    grid-row-start: 2;
+    grid-row-end: 3;
 }
   
 section:nth-of-type(4) ul li {
     border: solid 0.1em;
     border-radius: 2em;
-    padding: 0.1em;
+    padding: 0.3em;
 }
   
 section:nth-of-type(4) img {
     width: 5em;
     border-radius: 25em;
-    order: 2;
-}
-
-section:nth-of-type(4) h2 {
-    text-align: center;
-    order: 1;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    
 }
 
 section:nth-of-type(4) p {
-    order: 4;
+    grid-column-start: 1;
+    grid-column-end: 3;
+
 }
   
 /* Related Posts Section Styles */
