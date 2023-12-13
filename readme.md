@@ -81,8 +81,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/the_yesstylist_blog_compleet.jpg" width="375px" alt="Breakdown van de hele blog pagina">
-  <img src="readme-images/the_yesstylist_artikel_compleet.jpg" width="375px" alt="Breakdown van de hele artikel pagina">
+  <img src="readme-images/the_yesstylist_blog_compleet.jpg" width="375px" alt="Hele blog pagina">
+  <img src="readme-images/the_yesstylist_blog_breakdown.jpg" width="375px" alt="Breakdown van de blog pagina">  
+  <img src="readme-images/the_yesstylist_artikel_compleet.jpg" width="375px" alt="Hele artikel pagina">
+  <img src="readme-images/the_yesstylist_artikel_breakdown.jpg" width="375px" alt="Breakdown van de artikel pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/the_yesstylist_menu.jpg" width="375px" alt="Breakdown van de menu">
@@ -265,11 +267,15 @@ Ik loop super achter door verschillende emementen binnen en vooral buiten dit va
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
 
+Tijdens het maken van de website ging het werken met grid-layout opzich goed en heb ik mijn grip op flexbox aanzienlijk verbeterd. Ik had vorig jaar daar nog wat moeite mee. Daarnaast heb ik ook de basisprincipes geleerd van een aantal andere CSS elementen. Met de :root-selector heb ik bijvoorbeeld geleerd dat ik variabelen in kan stellen die ik overal in mijn stylesheet kan hergebruiken. Met behulp van @media kan ik ervoor gezorgd dat mijn site responsief is en op diverse schermformaten. Bovendien ben ik kennis geraakt met @font-face, waarmee ik lettertypes van een bestaande site kan integreren met mijn eigen sites om te oefenen.
+  
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
+  
+Tijdens het coderen van de website ondervond ik een aantal uitdagingen, met name bij het gebruik van de @media queries. Het aanpassen van de lay-out voor verschillende schermformaten bleek moeilijker te zijn dan ik had gedacht. Het lukte bijvoorbeeld niet helemaal om elementen zoals padding en/of marges van sections groter te maken. Een ander probleem was het implementeren van punten onder een geordende lijst. Ondanks mijn pogingen om het te maken met de hulp van uw code is dit niet gelukt. Er waren problemen zoals het verschuiven van elementen en/of het niet kunnen klikken op de puntjes. 
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
