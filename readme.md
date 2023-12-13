@@ -12,7 +12,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Jij
 
-<details >
+<details open>
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
@@ -32,7 +32,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Je website
 
-<details >
+<details open>
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
@@ -52,7 +52,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Toegankelijkheidstest 1/2 (week 1)
 
-<details >
+<details open>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
@@ -77,7 +77,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Breakdownschets (week 1)
 
-<details>
+<details open>
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
@@ -98,7 +98,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Voortgang 1 (week 2)
 
-<details >
+<details open>
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
@@ -146,7 +146,7 @@ Ik loop super achter door verschillende emementen binnen en vooral buiten dit va
 
 ## Voortgang 2 (week 3)
 
-<details >
+<details open>
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
@@ -174,7 +174,7 @@ Ik loop super achter door verschillende emementen binnen en vooral buiten dit va
   | ---            | ---                | ---          | ---              |
   | button center  | links positioneren  | dezelfde root in 3 css    | ?    |
   | verticale schuifbare | gif dowloaden | sneller responsive coderen | ? |
-  | YouTube filmpje      | X                | X          | X              |
+  | YouTube filmpje      | X                | X          | ?              |
 
 
   ### Verslag van meeting
@@ -192,7 +192,7 @@ Ik loop super achter door verschillende emementen binnen en vooral buiten dit va
 
 ## Toegankelijkheidstest 2/2 (week 4)
 
-<details>
+<details open>
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
@@ -255,7 +255,7 @@ Ik loop super achter door verschillende emementen binnen en vooral buiten dit va
 
 ## Eindgesprek (week 5)
 
-<details>
+<details open>
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
