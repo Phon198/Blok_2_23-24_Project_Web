@@ -19,10 +19,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Kanokphon Sophaphon
 
   #### Je startniveau:
-  Rood/blauw
+  Blauw
 
   #### Je focus:
-  Surface plane
+  Responsive
  
 </details>
 
@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  Link naar YesStyle: https://www.yesstyle.com/en/home.html
+  Link naar YesStyle: https://www.yesstyle.com/blog/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  <p>Naam van de pagina: Home<p>
-  <img src="readMeImages/yesstyle.jpg" width="375px" alt="Screenshot from YesStyle Home page."> 
+  <p>Naam van de pagina: Blog<p>
+  <img src="readme-images/the_yesstylist_blog.jpg" width="375px" alt="Blog pagina"> 
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  <p>Naam van de pagina: Blog<p>
-  <img src="readMeImages/the_yesstylist.jpg" width="375px" alt="Screenshot from YesStyle Blog page."> 
+  <p>Naam van de pagina: Artikel<p>
+  <img src="readme-images/the_yesstylist_artikel.jpg" width="375px" alt="Artikel pagina"> 
  
 </details>
 
@@ -59,17 +59,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen:
   
   Verteller:
-  1. Sweatshirts & Hoodies geen echt problemen gevonden
-  2. Persona Investigator - De verteller pakt de socials aan de zijkant niet
-  3. Persona Investigator - Pijtjes om te scrollen tussen de kledingstuken pakt de verteller niet
-  4. Persona Investigator - Nav. pakt de verteller raar nadat het gescrold is
+  1. De verteller pakt de socials aan de zijkant niet
+  3. Pijtjes om te scrollen tussen de kledingstuken pakt de verteller niet
+  4. Nav. pakt de verteller raar nadat het gescrold is
 
-  WCAG:
+  WCAG checklist:
   1. Content - Buttons en etc. kan interessanter
   2. Global code - HTML kan iets beter (minder div bv)
   3. Keyboard - Volgorde kan misschien beter van boven naar beneden
   4. Mobile and touch - Er kan iets meer ruimte tussen de icons
-  5. 
+  5. Appearance - Link en buttons veranderen nu alleen van kleur over de hele site
+  6. Animation - De site heeft niet veel animatie
 
 </details>
 
@@ -81,13 +81,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readMeImages/the_yesstylist2.1.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/the_yesstylist_blog_compleet.jpg" width="375px" alt="Breakdown van de hele blog pagina">
+  <img src="readme-images/the_yesstylist_artikel_compleet.jpg" width="375px" alt="Breakdown van de hele artikel pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readMeImages/the_yesstylist2.2.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/the_yesstylist_menu.jpg" width="375px" alt="Breakdown van de menu">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readMeImages/the_yesstylist2.3.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="readme-images/the_yesstylist_search.jpg" width="375px" alt="Breakdown van de search bar">
 
 </details>
 
@@ -105,10 +106,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 Ik loop super achter door verschillende emementen binnen en vooral buiten dit vak. Eén van de reden is dat ik op het laaste moment van schemen verandert ben waardoor onder andere de 'breakdownschets' nog niet af is en ook de code. Wat ik latsig vond is om de html code meteen in klein schem te schrijven.
 
-<img src="readMeImages/voortgang1.1.jpg" width="375px" alt="Voortgang1.1">
-<img src="readMeImages/voortgang1.2.jpg" width="375px" alt="Voortgang1.2">
-<img src="readMeImages/voortgang1.3.jpg" width="375px" alt="Voortgang1.3">
-<img src="readMeImages/voortgang1.4.jpg" width="375px" alt="Voortgang1.4">
+<img src="readme-images/voortgang1.1.jpg" width="375px" alt="Voortgang1.1">
+<img src="readme-images/voortgang1.2.jpg" width="375px" alt="Voortgang1.2">
+<img src="readme-images/voortgang1.3.jpg" width="375px" alt="Voortgang1.3">
+<img src="readme-images/voortgang1.4.jpg" width="375px" alt="Voortgang1.4">
 
   ### Agenda voor meeting
   Silke - Breakdownschets 
