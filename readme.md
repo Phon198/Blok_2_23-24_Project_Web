@@ -130,8 +130,8 @@ Ik loop super achter door verschillende emementen binnen en vooral buiten dit va
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
   - @font-face -> wis cach -> ga naar fonts -> zet boven in css 
-  - ipv div ul en il gebruiken voor product scroll
-  - hooftletters in css
+  - ipv div, ul en il gebruiken voor product scroll
+  - hooftletters in css en niet in html
   - maak van alles sections
   - button en/of a in sections
   - in form moet ook label en plaseholder
@@ -173,16 +173,15 @@ Ik loop super achter door verschillende emementen binnen en vooral buiten dit va
   | ---            | ---                | ---          | ---              |
   | button center  | links positioneren  | dezelfde root in 3 css    | ?    |
   | verticale schuifbare | gif dowloaden | sneller responsive coderen | ? |
-  | YouTube filmpje      | ...                | ...          | ...              |
+  | YouTube filmpje      | X                | X          | X              |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - Voor YouTube iframe src embed toevoegen in de url
+  - voor YouTube iframe src embed toevoegen in de url
   - gebruik grid voor section 4
-  - rood en @media per onderdeel en css typen 
-- ...
+  - root en @media per onderdeel en css typen 
 
 </details>
 
@@ -197,6 +196,8 @@ Ik loop super achter door verschillende emementen binnen en vooral buiten dit va
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+
+  - als ik op tab klik pakt hij de h of a niet
 
 </details>
 
@@ -225,20 +226,25 @@ Ik loop super achter door verschillende emementen binnen en vooral buiten dit va
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Zoë      | Mees          | Kanokphon    | student 4        |
+  | Zoë      | Mees          | Kanokphon    | X        |
   | ---            | ---                | ---          | ---              |
-  | section in een section  | X             | sections voor een deel een andere kleur maken    | en dan ik dat    |
-  | dropdown menu | X | sections achtergrond kleur mee laten groeien | dit wil ik zeker |
-  | schuifbalk            | ...                | ...          | ...              |
+  | section in een section  | X             | sections voor een deel een andere kleur maken    | X    |
+  | dropdown menu | X | sections achtergrond kleur mee laten groeien | X |
+  | schuifbalk            | X                | X          | X              |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - voor 2 kleuren achtergrond gebruik je background-image: linear-gradient
+  - per onderdeel @media doen en niet helemaal onderaan
+  - body margin en padding 0 om de witte randen wig te halen ipv bij main
+  - querySelectorq ipv getElementById voor menu JS code
+  - min-width is hetzelfde als width > bij @media
+  - puntjes onder producten zijn a ipv button
+  - voor puntjes onder producten maak je gebruik van 2 ul, waar van 1 een nav is en de andere een id
+  - alles moet een aria-label hebben
+  - aria-label is hetzelfde als img alt
 
 </details>
 
@@ -280,8 +286,14 @@ Ik loop super achter door verschillende emementen binnen en vooral buiten dit va
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. https://www.yesstyle.com/blog/2023-11-06/suzys-fashion-moments-from-the-netflix-k-drama-doona-drama-queens/?doing_wp_cron=1702438845.2500720024108886718750
+  2. https://developer.mozilla.org/en-US/
+  3. https://www.flaticon.com/uicons/interface-icons
+  4. https://codepen.io/shooft/pen/KKbwmao
+  5. https://codepen.io/shooft/pen/MWZYoqa
+  6. https://codepen.io/shooft/pen/JjxmvrL
+  7. https://chat.openai.com
+  8. https://www.yesstyle.com/en/saunderoll-off-shoulder-sequin-mesh-panel-a-line-evening-gown/info.html/pid.1120465858
+  9. https://stackoverflow.com/questions/14324809/css-curved-gradients-and-box-shadow
 
 </details>
