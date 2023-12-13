@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   <p>Naam van de pagina: Blog<p>
-  <img src="readme-images/the_yesstylist_blog.jpg" width="375px" alt="Blog pagina"> 
+  <img src="readme_images/the_yesstylist_blog.jpg" width="375px" alt="Blog pagina"> 
 
   #### Screenshot(s) van de tweede pagina (small screen):
   <p>Naam van de pagina: Artikel<p>
-  <img src="readme-images/the_yesstylist_artikel.jpg" width="375px" alt="Artikel pagina"> 
+  <img src="readme_images/the_yesstylist_artikel.jpg" width="375px" alt="Artikel pagina"> 
  
 </details>
 
@@ -81,16 +81,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/the_yesstylist_blog_compleet.jpg" width="375px" alt="Hele blog pagina">
-  <img src="readme-images/the_yesstylist_blog_breakdown.jpg" width="375px" alt="Breakdown van de blog pagina">  
-  <img src="readme-images/the_yesstylist_artikel_compleet.jpg" width="375px" alt="Hele artikel pagina">
-  <img src="readme-images/the_yesstylist_artikel_breakdown.jpg" width="375px" alt="Breakdown van de artikel pagina">
+  <img src="readme_images/the_yesstylist_blog_compleet.jpg" width="375px" alt="Hele blog pagina">
+  <img src="readme_images/the_yesstylist_blog_breakdown.jpg" width="375px" alt="Breakdown van de blog pagina">  
+  <img src="readme_images/the_yesstylist_artikel_compleet.jpg" width="375px" alt="Hele artikel pagina">
+  <img src="readme_images/the_yesstylist_artikel_breakdown.jpg" width="375px" alt="Breakdown van de artikel pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/the_yesstylist_menu.jpg" width="375px" alt="Breakdown van de menu">
+  <img src="readme_images/the_yesstylist_menu.jpg" width="375px" alt="Breakdown van de menu">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/the_yesstylist_search.jpg" width="375px" alt="Breakdown van de search bar">
+  <img src="readme_images/the_yesstylist_search.jpg" width="375px" alt="Breakdown van de search bar">
 
 </details>
 
@@ -108,10 +108,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 Ik loop super achter door verschillende emementen binnen en vooral buiten dit vak. Eén van de reden is dat ik op het laaste moment van schemen verandert ben waardoor onder andere de 'breakdownschets' nog niet af is en ook de code. Wat ik latsig vond is om de html code meteen in klein schem te schrijven.
 
-<img src="readme-images/voortgang1.1.jpg" width="375px" alt="Voortgang1.1">
-<img src="readme-images/voortgang1.2.jpg" width="375px" alt="Voortgang1.2">
-<img src="readme-images/voortgang1.3.jpg" width="375px" alt="Voortgang1.3">
-<img src="readme-images/voortgang1.4.jpg" width="375px" alt="Voortgang1.4">
+<img src="readme_images/voortgang1.1.jpg" width="375px" alt="Voortgang1.1">
+<img src="readme_images/voortgang1.2.jpg" width="375px" alt="Voortgang1.2">
+<img src="readme_images/voortgang1.3.jpg" width="375px" alt="Voortgang1.3">
+<img src="readme_images/voortgang1.4.jpg" width="375px" alt="Voortgang1.4">
 
   ### Agenda voor meeting
   Silke - Breakdownschets 
@@ -156,17 +156,17 @@ Ik loop super achter door verschillende emementen binnen en vooral buiten dit va
   
   Root in de css verwerken ging goed en zonder echte problemen. Wat lastig was de header tel versie en de verschillende magin van de verschillende onderdelen.
   
-  <img src="readme-images/voortgang2.1.jpg" width="375px" alt="Voortgang2.1">
-  <img src="readme-images/voortgang2.2.jpg" width="375px" alt="Voortgang2.2">
-  <img src="readme-images/voortgang2.3.jpg" width="375px" alt="Voortgang2.3">
-  <img src="readme-images/voortgang2.4.jpg" width="375px" alt="Voortgang2.4">
-  <img src="readme-images/voortgang2.5.jpg" width="375px" alt="Voortgang2.5">
-  <img src="readme-images/voortgang2.6.jpg" width="375px" alt="Voortgang2.6">
-  <img src="readme-images/voortgang2.7.jpg" width="375px" alt="Voortgang2.7">
-  <img src="readme-images/voortgang2.8.jpg" width="375px" alt="Voortgang2.8">
-  <img src="readme-images/voortgang2.9.jpg" width="375px" alt="Voortgang2.9">
-  <img src="readme-images/voortgang2.10.jpg" width="375px" alt="Voortgang2.10">
-  <img src="readme-images/voortgang2.11.jpg" width="375px" alt="Voortgang2.11">
+  <img src="readme_images/voortgang2.1.jpg" width="375px" alt="Voortgang2.1">
+  <img src="readme_images/voortgang2.2.jpg" width="375px" alt="Voortgang2.2">
+  <img src="readme_images/voortgang2.3.jpg" width="375px" alt="Voortgang2.3">
+  <img src="readme_images/voortgang2.4.jpg" width="375px" alt="Voortgang2.4">
+  <img src="readme_images/voortgang2.5.jpg" width="375px" alt="Voortgang2.5">
+  <img src="readme_images/voortgang2.6.jpg" width="375px" alt="Voortgang2.6">
+  <img src="readme_images/voortgang2.7.jpg" width="375px" alt="Voortgang2.7">
+  <img src="readme_images/voortgang2.8.jpg" width="375px" alt="Voortgang2.8">
+  <img src="readme_images/voortgang2.9.jpg" width="375px" alt="Voortgang2.9">
+  <img src="readme_images/voortgang2.10.jpg" width="375px" alt="Voortgang2.10">
+  <img src="readme_images/voortgang2.11.jpg" width="375px" alt="Voortgang2.11">
 
 
   ### Agenda voor meeting
@@ -218,12 +218,12 @@ Ik loop super achter door verschillende emementen binnen en vooral buiten dit va
 
   Ik had moeite met grid bij de 4e section en mee groeiende achtergrond kleuren bij sections 1 en 5. Flex voor order bij de andere sections ging goed.
 
-  <img src="readme-images/voortgang3.1.jpg" width="375px" alt="Voortgang3.1">
-  <img src="readme-images/voortgang3.2.jpg" width="375px" alt="Voortgang3.2">
-  <img src="readme-images/voortgang3.3.jpg" width="375px" alt="Voortgang3.3">
-  <img src="readme-images/voortgang3.4.jpg" width="375px" alt="Voortgang3.4">
-  <img src="readme-images/voortgang3.5.jpg" width="375px" alt="Voortgang3.5">
-  <img src="readme-images/voortgang3.6.jpg" width="375px" alt="Voortgang3.6">
+  <img src="readme_images/voortgang3.1.jpg" width="375px" alt="Voortgang3.1">
+  <img src="readme_images/voortgang3.2.jpg" width="375px" alt="Voortgang3.2">
+  <img src="readme_images/voortgang3.3.jpg" width="375px" alt="Voortgang3.3">
+  <img src="readme_images/voortgang3.4.jpg" width="375px" alt="Voortgang3.4">
+  <img src="readme_images/voortgang3.5.jpg" width="375px" alt="Voortgang3.5">
+  <img src="readme_images/voortgang3.6.jpg" width="375px" alt="Voortgang3.6">
 
 
   ### Agenda voor meeting
@@ -261,7 +261,7 @@ Ik loop super achter door verschillende emementen binnen en vooral buiten dit va
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme_images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
@@ -269,7 +269,7 @@ Ik loop super achter door verschillende emementen binnen en vooral buiten dit va
 
 Tijdens het maken van de website ging het werken met grid-layout opzich goed en heb ik mijn grip op flexbox aanzienlijk verbeterd. Ik had vorig jaar daar nog wat moeite mee. Daarnaast heb ik ook de basisprincipes geleerd van een aantal andere CSS elementen. Met de :root-selector heb ik bijvoorbeeld geleerd dat ik variabelen in kan stellen die ik overal in mijn stylesheet kan hergebruiken. Met behulp van @media kan ik ervoor gezorgd dat mijn site responsief is en op diverse schermformaten. Bovendien ben ik kennis geraakt met @font-face, waarmee ik lettertypes van een bestaande site kan integreren met mijn eigen sites om te oefenen.
   
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme_images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
@@ -277,7 +277,7 @@ Tijdens het maken van de website ging het werken met grid-layout opzich goed en 
   
 Tijdens het coderen van de website ondervond ik een aantal uitdagingen, met name bij het gebruik van de @media queries. Het aanpassen van de lay-out voor verschillende schermformaten bleek moeilijker te zijn dan ik had gedacht. Het lukte bijvoorbeeld niet helemaal om elementen zoals padding en/of marges van sections groter te maken. Een ander probleem was het implementeren van punten onder een geordende lijst. Ondanks mijn pogingen om het te maken met de hulp van uw code is dit niet gelukt. Er waren problemen zoals het verschuiven van elementen en/of het niet kunnen klikken op de puntjes. 
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme_images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
 
 
